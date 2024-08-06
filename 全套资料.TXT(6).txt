@@ -1,0 +1,221 @@
+PS零基础到实战合集链接：
+https://pan.baidu.com/s/1F2FKiDj-seTc9aPqUliIyA 
+提取码：wemr 
+
+Premiere PR 剪辑从入门到精通系统培训课程
+链接: https://pan.baidu.com/s/1HOziT5yKt7bUI-leyROjyg 密码: ZZ7U
+视频剪辑教程
+https://pan.baidu.com/s/1_ScFOww0VteILcxzup9ABA 
+提取码：K981 
+PS  2024安装包下载链接  
+https://pan.baidu.com/s/14VFr7ZAuJsgbZzpLaodTXg?pwd=6789
+提取码：6789
+
+PR  2023安装包64位下载链接：
+https://pan.baidu.com/s/1h4jv4qCSFUIyQN2XrMrRMg?pwd=5678
+提取码：5678
+
+mac版2021全家桶 链接：https://pan.baidu.com/s/1r8g2l3Wv4VtZrrP_m9Aifg 
+提取码：lqce 
+
+软件安装Adobe 2023链接：https://pan.baidu.com/s/1NO8r4XFUtHg9za8yMQfIYg 
+提取码：2aje复制链接去浏览器打开下载 不要直接在微信打开  会空白  电脑记得下载百度网盘（浏览器打开链接放在网址框 直接访问  不要放在搜索框）
+
+PR文件使用类型快捷键
+01
+Ctrl+Alt+N新建一个项目
+Ctrl + O 打开项目
+Ctrl + Shift + W 关闭项目
+Ctrl + W关闭
+Ctrl + S保存
+F5采集
+F6批采集
+Ctrl+I导入
+Ctrl+Q退出
+
+PR编辑功能快捷键
+01
+Ctrl+Z还原
+Ctrl+Shift+Z撤销
+Ctrl+X剪切
+Ctrl+C复制
+Ctrl+V黏贴
+Ctrl+A全选
+Ctrl+F查找
+Ctrl+E编辑资源还原
+Ctrl+/新建文件夹
+Shift+Delete波纹删除
+Ctrl+Shift+A取消全选
+
+PR素材类快捷键
+01
+Ctrl+R速度
+Q素芳当前画面
+Ctrl+B嵌套
+Ctrl+G解组
+G音频增益
+Shift+E启用
+Ctrl+U制作字剪辑
+Ctrl+L连接
+
+PR序列类快捷键
+01
+Ctrl+N新建序列
+Enter渲染工作区效果
+Ctrl+K剪切
+F匹配
+Ctrl+Shift+K轨道剪切
+T修整编辑
+Ctrl+D默认视频转场
+Ctrl+Shift+D默认音频转场
+
+PR标记类快捷键
+01
+I标记入点
+O标记出点
+X标记素材入出点
+Shift+/标记素材
+Shift+\在项目窗口查看形式
+Shift+*返回媒体浏览
+Shift+I跳转入点
+Shift+O跳转出点
+Ctrl + Shift + I清除入点
+Ctrl + Shift + Q 清除出点
+Ctrl + Shift + X 清除出入点
+M添加标记
+Shift+M到下一个标记
+
+PR字幕类快捷键
+01
+Ctrl + T新建字幕
+Ctrl + Shift + L 左对齐
+Ctrl + Shift + C 居中
+Ctrl + Shift + R 右对齐
+Ctrl + Shift + T 制表符设置
+Ctrl + J 模板
+Ctrl + Alt + ] 上一层的下一个对象
+Ctrl + Alt + [ 下一层的下一个对象
+Ctrl + Shift + ] 放到最上层
+Ctrl + ] 上移一层
+Ctrl + Shift + [ 放到最下层
+Ctrl + [下移一层
+
+PR窗口类快捷键
+01
+Shift + 1项目
+Shift + 2源监视器
+Shift + 3时间轴
+Shift + 4节目监视器
+Shift + 5特效控制台
+Shift + 6调音台
+Shift + 7效果
+Shift + 8媒体预览
+插件名称	插件下载链接	插件作用
+
+
+AE脚本-卡通人物关节骨骼绑定联动弹跳MG动画工具 RubberHose	"链接：https://pan.baidu.com/s/19kP2k11TY1nOR1VXb1EDWQ?pwd=pqg7 
+提取码：pqg7 "	仅需两个控制点即可完全控制整个绑定动画，可自由变形/拉伸，利用脚本能够快速生成人体的手和脚，然后还可以和身体做绑定，制作人体动画
+
+
+中文汉化-图层边界自动填充生长动画AE插件 AutoFill	"链接：https://pan.baidu.com/s/1YW2spsU2AAfCVDBkB28WWg 
+提取码：d1hg "	可实现自动填充-自动为形状或图像创建填充动画、展示动画展示、纹理更改，溶解，过渡，循环动画等
+
+
+AE脚本-2000个二维卡通人物场景MG动画预设包 Fragments Animated 2D Elements	"链接：https://pan.baidu.com/s/1Jbn5tIQyI8T-QJP1RDlVwg 
+提取码：3ex6 "	2D元素包合集之一，拥有2000个MG动画预设包可完全自定义、调整大小并包含进出动画。所有元素都具有相同的结构
+
+
+AE插件-牛顿动力学插件 Newton 3.4 Win/Mac	"链接：https://pan.baidu.com/s/1abR-QejowNILuGJJEV7IYA?pwd=22on 
+提取码：22on "	Newton是AE的一款牛顿动力学插件，完美模拟动力学的物理属性，操作方便快捷，全新的操作界面、关节、吸附与排斥、新动力学类型等诸多实用功能。重力，碰撞，摩擦，弹跳，密度，速度等控制，制作出更加真实的效果
+
+
+专业摄像机反求平面摩卡跟踪AE/PR插件 Mocha Pro	"链接：https://pan.baidu.com/s/1J6ChAKg0H4o2SWQUEgfWhQ?pwd=ftqz 
+提取码：ftqz "	Mocha Pro 是世界知名的平面跟踪、旋转扫描、对象移除、稳定和网格跟踪软件。对于VFX和后期制作至关重要，Mocha因其对电影和电视行业的贡献而获得了著名的奥斯卡奖和艾美奖
+
+
+AE插件-节点式三维粒子特效星尘粒子插件 Stardust	"链接：https://pan.baidu.com/s/1KXDxzo-j_KJIXQaDz-A8Aw?pwd=qtsy 
+提取码：qtsy "	AE软件新一代节点式的三维粒子插件（也称星辰/星尘粒子插件），独立的操控界面，功能强大，含多种预设，轻松制作出漂亮而复杂的效果，拥有：发射器，粒子，复制，力场，辅助发射器，3D模型，文字，Maks，等控制，模式也非常多。
+
+
+AE/PR脚本插件-850种动漫卡通火焰烟雾能量电流爆炸转场液体霓虹魔法MG动画元素包 FX Master	"链接：https://pan.baidu.com/s/1kmEg6Yf9zP3qWBvPn-zwaw?pwd=sbk0 
+提取码：sbk0 "	元素脚本扩展包，可以创建具有卡通效果的逼真的MG视觉效果，例如火焰，水流液体，烟雾，爆炸，转场，能量电流等等卡通动漫元素。此动作效果扩展包的用法非常简单，您只需将项目拖放到素材上即可。此包装中的所有物品都是手绘的，并且是透明的。可修改颜色，像素化，网格扭曲变形等
+
+
+中文汉化AE插件-漂亮真实高级辉光发光特效 Deep Glow	"链接：https://pan.baidu.com/s/1f57UWqKDubKafcpLhKQo5A?pwd=tnsz 
+提取码：tnsz "	漂亮真实高级辉光发光插件Deep Glow比AE自带的Glow辉光插件效果更加是真实，过度更加的自然漂亮；即使在非线性色彩空间中工作，Deep Glow也能为您提供实时即用的最佳效果。 它具有直观的合成控制，有助于改善您的发光效果。
+
+
+巨人跟踪抠像光工厂视觉特效套装AE/PR插件VFX Suite	"链接：https://pan.baidu.com/s/1eUgYz-Yp5EWq6yxPZoEdNg?pwd=tjsq 
+提取码：tjsq "	在After Effects中完成抠像、跟踪、清理和视觉效果合成。现在还包括Bang，一个用于创建完全程序化的3D枪口闪光的工具。VFX Suite 2新加入了Bang插件，一个完全程序化的3D枪口闪光生成器，具有3D定位功能，可以快速、轻松地将枪口闪光添加到您的镜头中
+
+
+中文汉化AE插件-物体表面跟踪特效合成高级工具 Lockdown	"链接：https://pan.baidu.com/s/1OIUF5sCLKqUXx444jRWcBw?pwd=aji6 
+提取码：aji6 "	强大的Lockdown插件支持达芬奇软件啦！插件拥有独立操作界面，可让您轻松进行跟踪，一切将比以前在After Effects和达芬奇界面中要平滑得多
+
+AE模板-风景人像图片转3D空间摄像机动画 VoluMaxmax	"链接: https://pan.baidu.com/s/1eX5G1Z9ESKwg_KlUmXxA8A 
+提取码: t263 "	可实现跟踪，抠图，相机投影功能，3D粒子，绘画深度工具，水动画，3D照片等
+
+blender特效材质插件合集包	"链接：https://pan.baidu.com/s/1OQYiO27FSGXHxXE09Id7kQ 
+提取码：b12i "	blender软件的特效插件扩展包，包含风，火焰，光束，雷电，水花等
+
+
+AePr脚本-1400个字幕条标题呼出线文字排版动画TitlesProV2fix	"链接：https://pan.baidu.com/s/1WztW-sV32Qxbxrj163accA 
+提取码：dme0 "	1400多种排版组合、新类别，例如液体、数字、故障、场景或动力学、预制的AI素材文件。使用EasyEdit脚本调用预设，可视化操作使用。
+
+
+达芬奇/AE/PR/PS调色插件套装 False Color	"链接：https://pan.baidu.com/s/12Tk4w0XAXePKhcWuzTi-HA 
+提取码：h2i3 "	"Nobe Color Remap 色彩映射插件，比3D LUT Creator更方便更流畅的操作。
+
+False Color 伪色预监插件，提供了市面上绝大部分硬件监视器的伪色预监。
+
+Nobe Display 预览监视器插件，可以直接将DaVinci画面输出到Nobe Display窗口，并放置于任意位置（需将插件加载至最后一个调色节点）"
+
+
+AE模板-40种人物冻结定格静链接	"https://pan.baidu.com/s/1JYL_TuEX_4g_3zQccYWKpw?pwd=91qu 
+提取码：91qu "	人物动画、冻结静帧动画
+
+
+4K视频素材-242个超级英雄魔法能量电流雷电火焰传送门电影特效合成动画	"链接：https://pan.baidu.com/s/1s9iHX3i4T9hTUI2hZSWK-A 
+提取码：5fc2 "	十二个大类共242个用于电影特效合成的4K视频素材，拥有：火焰，传送门，魔法能量，气功，弧线，闪电电流，镭射眼，地面破碎等；带透明通道，可直接与你的视频素材搭配组合使用
+
+
+图层边界自动填充生长动画AE插件 AutoFill v1.1.3 WinMac	"链接：https://pan.baidu.com/s/1mnn5XVy4fpORi3cupOjpjA 
+提取码：umng "	"自动填充-自动为形状或图像创建填充动画: 自动填充将图层或图像的透明度用作增长和填充方向的指南。您可以将自动填充与流经图像的水进行比较，并避免出现透明区域。
+
+无限的使用可能性: 自动填充是一种核心效果，将帮助您完成各种任务，如动画展示、纹理更改，溶解，过渡，循环动画等
+
+
+快速渲染且易于使用: 只需应用自动填充，设置增长起点，然后播放即可。就这么简单。AutoFill是GPU加速的，因此您可以实时预览结果（取决于硬件）。"
+
+专业摄像机反求平面摩卡跟踪AE/PR插件 Mocha Pro中文版	"链接：https://pan.baidu.com/s/1vjSIyD2qP6FRX3TqQ0Dy-w?pwd=hvbp 
+提取码：hvbp"	Mocha Pro 是世界知名的平面跟踪、旋转扫描、对象移除、稳定和网格跟踪软件。对于VFX和后期制作至关重要，Mocha因其对电影和电视行业的贡献而获得了著名的奥斯卡奖和艾美奖
+
+
+115组科幻冲击能量波魔法火焰光线特效合成4K视频素材	"链接：https://pan.baidu.com/s/1g17GMDk1DYBbBPHM0nYUeA 
+提取码：y55e "	火焰，传送门，魔法能量，气功，弧线，闪电电流，镭射眼，地面破碎等；带透明通道，可直接与你的视频素材搭配组合使用
+
+
+PR插件-音乐鼓点自动节拍打点标记动画 BeatEdit	"链接：https://pan.baidu.com/s/1_YQoJy-Yk6isluZFjRlhpw 
+提取码：3pn4 "	BeatEdit可检测音乐中的节拍并在Premiere Pro时间轴中为其生成标记。创建与音乐同步的自动编辑，或者让BeatEdit协助您进行手动编辑过程。使用节拍信息来生成与音乐同步的全自动编辑。如果需要更多控制，拍子标记也可以用作手动编辑过程中的指南。此外，可以在时间轴中轻松调整自动编辑。
+
+
+115组科幻冲击能量波魔法火焰光线特效合成4K视频素材	"链接：https://pan.baidu.com/s/1RBv65v5SjLAKcwmJCKwqdA 
+提取码：jd3y "	拥有：火焰，传送门，魔法能量，气功，弧线，闪电电流，镭射眼，地面破碎等；带透明通道，可直接与你的视频素材搭配组合使用
+
+
+AE脚本-液体飞溅MG动画生成工具 Splash v1.04	"链接：https://pan.baidu.com/s/1cEWsiT5rPDjHGt74-qKx7A 
+提取码：s6en "	最出色的After Effects液体动画！ 脚本Splash会在图层上创建程序生成的液体痕迹和斑点，同时提供粒度控制！并通过25种以上的属性进行控制。易于生成高度可定制的液体飞溅和斑点。只需选择一个移动层，选择一个预设，然后单击启动按钮
+
+blender软件	"链接：https://pan.baidu.com/s/1O4cWIBHqo-GT23IgDf_Y7w?pwd=l96a 
+提取码：l96a "	
+
+
+AE脚本-2000个二维卡通人物场景MG动画预设包 Fragments Animated 2D Elements	"链接：https://pan.baidu.com/s/1QtJlqdSUKvaxmxh_0QSOAA?pwd=ke5t 
+提取码：ke5t "	
+
+
+AEPR视觉特效和转场BCC插件	"链接：https://pan.baidu.com/s/1oKnR5I5QwpX-O0MTxan2EQ?pwd=17q3 
+提取码：17q3 "	
+		
+		
+		
